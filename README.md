@@ -1,4 +1,5 @@
-![Resized_workspace_image_1280x640](https://github.com/user-attachments/assets/a0823738-90d8-4d3e-96f6-092e904f5103)
+![ChatGPT Image May 17, 2025, 09_24_34 PM](https://github.com/user-attachments/assets/21e5bb00-208d-4c97-84d1-7fdd50ef059a)
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nitin-pandey-835002209/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Nitin Pandey" /></a>
@@ -19,6 +20,8 @@
 - Automating root‑cause detection scripts for job‑failure alerts
   
 - Designing interactive dashboards (Plotly / Power BI) for real‑time decision support
+  
+- I once automated a web‑scraping task that cut manual data collection by **50%**, and I’m always chasing the next optimization!
 
 <br>
 <br>
